@@ -209,7 +209,14 @@ progress::-moz-progress-value {
     width: 1050px;
     height: 100%;
     background-color: white;
+}
 
+.logo{
+    position:relative;
+    margin-top: 1px;
+    width: 1050px;
+    height:120px;
+    background-image:url('../../static/image/logo.png');
 }
 
 .side {
